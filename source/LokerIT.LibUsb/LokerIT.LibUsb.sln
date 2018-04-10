@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LokerIT.LibUsb", "LokerIT.LibUsb\LokerIT.LibUsb.csproj", "{E21D25D1-2B56-44D4-AF96-0A0A3DCBB0A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LokerIT.LibUsb.Tests", "LokerIT.LibUsb.Tests\LokerIT.LibUsb.Tests.csproj", "{4F634869-AC96-4EE2-9D18-AC5655F13C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LokerIT.LibUsb.TestDrive", "LokerIT.LibUsb.TestDrive\LokerIT.LibUsb.TestDrive.csproj", "{D2EB2074-D030-4448-BA99-DBC577D2FADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E21D25D1-2B56-44D4-AF96-0A0A3DCBB0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21D25D1-2B56-44D4-AF96-0A0A3DCBB0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21D25D1-2B56-44D4-AF96-0A0A3DCBB0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21D25D1-2B56-44D4-AF96-0A0A3DCBB0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F634869-AC96-4EE2-9D18-AC5655F13C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F634869-AC96-4EE2-9D18-AC5655F13C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F634869-AC96-4EE2-9D18-AC5655F13C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F634869-AC96-4EE2-9D18-AC5655F13C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2EB2074-D030-4448-BA99-DBC577D2FADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2EB2074-D030-4448-BA99-DBC577D2FADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2EB2074-D030-4448-BA99-DBC577D2FADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2EB2074-D030-4448-BA99-DBC577D2FADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
